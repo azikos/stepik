@@ -1,4 +1,4 @@
 # stepik
 
-git clone https://github.com/your_account/stepic_web_project.git /home/box/web
+git clone https://github.com/azikos/stepik.git /home/box/web
 bash /home/box/web/init.sh
